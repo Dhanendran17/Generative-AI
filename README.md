@@ -46,7 +46,7 @@ This repository will consist of a **Long Short-Term Memory** implementation of a
 - This is the final experimentation till now before any hyper parameter tuning, as the model is fitting pretty better over the test data.
 - Below is the screenshot of the real vs the predicted regression for the test dataset.</br>
 
-![120 Days, 100 epochs](https://github.com/Dhanendran17/Generative-AI/RNN-based-Stock-Price-Prediction-using-LSTM/blob/master/images/120d-100eP.PNG)
+![120 Days, 100 epochs](https://github.com/Dhanendran17/Generative-AI/blob/master/images/120d-100eP.PNG)
 
 
 
